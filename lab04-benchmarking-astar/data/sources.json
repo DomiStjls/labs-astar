@@ -1,0 +1,44 @@
+{
+  "source": "https://movingai.com/benchmarks/grids.html",
+  "format": "https://movingai.com/benchmarks/formats.html",
+  "license": "https://opendatacommons.org/licenses/by/1-0/",
+  "downloaded_utc": "2026-10-20T19:20:13.566605+00:00",
+  "files": [
+    {
+      "path": "data/dao/arena.map",
+      "url": "https://movingai.com/benchmarks/dao/arena.map.zip",
+      "sha256": "9887c3022fb76d8e2b49db4a54641e31df79607cf96c2a0ec362702808113d4d",
+      "bytes": 2485
+    },
+    {
+      "path": "data/dao/arena.map.scen",
+      "url": "https://movingai.com/benchmarks/dao/arena.map-scen.zip",
+      "sha256": "c593f662a6964a657aef6a004cced3bf144b9aa4f61a15ce8c5f1c6269a79875",
+      "bytes": 5368
+    },
+    {
+      "path": "data/da2/ht_chantry.map",
+      "url": "https://movingai.com/benchmarks/da2/ht_chantry.map.zip",
+      "sha256": "0aa95f3f8701eea7938b8ed84a38fa17d4eb7fe0a727ecd43edf413f3774ccc0",
+      "bytes": 23020
+    },
+    {
+      "path": "data/da2/ht_chantry.map.scen",
+      "url": "https://movingai.com/benchmarks/da2/ht_chantry.map-scen.zip",
+      "sha256": "80c4dd973dcc45bf293d15f864224cf0768ccbd05225bc4ae45da898b1623929",
+      "bytes": 23478
+    },
+    {
+      "path": "data/bgmaps/AR0021SR.map",
+      "url": "https://movingai.com/benchmarks/bgmaps/AR0021SR.map.zip",
+      "sha256": "7c463c0d569f8894b17d8e20b82db93cc123638b45314b34cdea2bb81a8a7d24",
+      "bytes": 3939
+    },
+    {
+      "path": "data/bgmaps/AR0021SR.map.scen",
+      "url": "https://movingai.com/benchmarks/bgmaps/AR0021SR.map-scen.zip",
+      "sha256": "23941689737b4652fea467e92f4a5bf9ad8d3b35e0113bf766db1d6004ef1824",
+      "bytes": 7642
+    }
+  ]
+}
